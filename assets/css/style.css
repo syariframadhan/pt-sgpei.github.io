@@ -426,7 +426,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #2487ce;
 }
 #hero .icon-box:hover {
-  transform: scale(1.08);
+  transform: scale(1.04);
 }
 #hero .icon-box:hover .title a {
   color: #2487ce;
@@ -481,7 +481,7 @@ section {
 }
 .section-title p {
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 16px;
   color: #919191;
 }
 
